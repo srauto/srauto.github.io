@@ -119,7 +119,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:srauto@gmail.com
     - label: "Linkedin"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/smrutirekha-rauto-aa191625/"
     - label: "Website"
       icon: "fas fa-fw fa-link"

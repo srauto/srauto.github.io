@@ -120,7 +120,7 @@ author:
       url: mailto:srauto@gmail.com
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/smrutirekha-rauto-aa191625/"
+      # url: "https://www.linkedin.com/in/smrutirekha-rauto-aa191625/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
